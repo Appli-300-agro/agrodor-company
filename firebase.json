@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "agrodor-company",
+    "site": "agrodor-company-9ze19",
     "public": "dist",
     "ignore": [
       "firebase.json",
